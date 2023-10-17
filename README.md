@@ -1,7 +1,7 @@
 # Apache Bean Data Assignment
 Goal for this assignment is to create an EDA colab and apache beam colab
 ## Assignment 1: Complete dataset EDA in colab
-refer to file 
+refer to file [a link]()
 ![image](https://github.com/kellynguyvn/Apache_Beam/assets/80297074/f956a6cc-3f23-4878-9795-fc4f797de2a9)
 ![image](https://github.com/kellynguyvn/Apache_Beam/assets/80297074/6731343b-e26d-4f79-b731-0413e03977a1)
 
